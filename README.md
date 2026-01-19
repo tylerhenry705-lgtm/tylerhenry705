@@ -10,4 +10,5 @@ A Java project that simulates the number of foxes and rabbits in the field.
 A Java Project that takes a file of horses and burros and serializes it.
 # Media Player Project
 A Java project that uses the playable interface to create video clips.
-# movie project
+# Movie Project
+A Java project that uses user input to create movies based on their release date name and 
