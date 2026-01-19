@@ -13,4 +13,6 @@ A Java project that uses the playable interface to create video clips.
 # Movie Project
 A Java project that uses user input to create movies based on their release date, name, and runtime.
 # Notebook Project
-A Java Project 
+A Java Project that creates a notebook by user input. 
+# University Project
+A Java Project that 
