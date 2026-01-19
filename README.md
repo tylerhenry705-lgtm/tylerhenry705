@@ -15,4 +15,6 @@ A Java project that uses user input to create movies based on their release date
 # Notebook Project
 A Java Project that creates a notebook by user input. 
 # University Project
-A Java Project that 
+A Java Project that creates a list of students and instructors from a university.
+# PHP Content
+PHP projects that I did, such as creating an article from MySQL and creating an index 
