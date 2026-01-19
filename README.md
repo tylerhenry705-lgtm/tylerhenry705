@@ -1,6 +1,4 @@
-[!NOTE]
-
-# tylerhenry705
+## tylerhenry705
 Portfolio of Projects that I did. 
 # Bagel Shop Project 
 A Java project that creates a Bagel GUI and calculates the prices of the bagels.
