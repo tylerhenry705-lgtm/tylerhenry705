@@ -7,4 +7,6 @@ A Java project that converts a stream of celebrities into a stream of their pets
 # Fox and Rabbit Project
 A Java project that simulates the number of foxes and rabbits in the field.
 # Horses and Burros Project
-A Project that 
+A Java Project that takes a file of horses and burros and serializes it.
+# Media Player Project
+A Java project 
