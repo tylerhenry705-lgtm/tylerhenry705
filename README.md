@@ -1,5 +1,6 @@
 # tylerhenry705
 Portfolio of Projects that I did. 
+<span style="color:red">This text is red</span>
 ## Bagel Shop Project 
 A Java project that creates a Bagel GUI and calculates the prices of the bagels.
 ## Celebrity Cats Project
