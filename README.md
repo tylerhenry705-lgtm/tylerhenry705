@@ -1,5 +1,5 @@
 # tylerhenry705
-Portfolio of Projects that I did. 
+Portfolio of Projects
 ## Bagel Shop Project 
 A Java project that creates a Bagel GUI and calculates the prices of the bagels.
 ## Celebrity Cats Project
@@ -17,4 +17,4 @@ A Java Project that creates a notebook by user input.
 ## University Project
 A Java Project that creates a list of students and instructors from a university.
 ## PHP Content
-PHP projects that I did, such as creating an article from MySQL and creating an index using the SQL database.
+PHP projects, such as creating an article from MySQL and creating an index using the SQL database.
