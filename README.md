@@ -4,6 +4,8 @@ Portfolio of Projects
 A Java project that creates a Bagel GUI and calculates the prices of the bagels.
 ## Celebrity Cats Project
 A Java project that converts a stream of celebrities into a stream of their pets.
+## Calculator Project
+A Java Project that calculates the pi value per 1000 tries. 
 ## Fox and Rabbit Project
 A Java project that simulates the number of foxes and rabbits in the field.
 ## Horses and Burros Project
