@@ -19,4 +19,4 @@ A Java Project that creates a notebook by user input.
 ## University Project
 A Java Project that creates a list of students and instructors from a university.
 ## PHP Content
-PHP projects, such as creating an article from MySQL and creating an index using the SQL database.
+PHP projects, such as creating an article from MySQL, creating an article with a header and footer, and creating an index using the SQL database.
