@@ -28,7 +28,7 @@ A Java Project that creates a list of students and instructors from a university
 ## PHP Content
 PHP projects, such as creating an article from MySQL, creating an article with a header and footer, and creating an index using the SQL database.
 
-TECHNICAL PROJECTS  
-Linux ARM64 Group Projects
+## TECHNICAL PROJECTS  
+## Linux ARM64 Group Projects
 •	Used a loop to increment a register to calculate factorials, categorized using if-else statements, checked for errors 
 •	Used the LIFO stack methodology to push words to the top of the stack, checked outputs, debugged, explained project requirements
