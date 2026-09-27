@@ -24,11 +24,13 @@ PHP projects, such as creating an article from MySQL, creating an article with a
 TECHNICAL PROJECTS  
 Linux ARM64 Group Projects
 •	Used a loop to increment a register to calculate factorials, categorized using if-else statements, checked for errors 
-•	Used the LIFO stack methodology to push words to the top of the stack, checked outputs, debugged, explained project requirements 
+•	Used the LIFO stack methodology to push words to the top of the stack, checked outputs, debugged, explained project requirements
+
 OOP Simulation- tylerhenry705/fox and rabbit project at main · tylerhenry705-lgtm/tylerhenry705 | EcoSim | Base44 
 •	Java object-oriented programming simulation project that created a simulation field using the simulator() method in the simulator class
 •	Created classes that simulated counting, modeled, inherited, and encapsulated classes, made a class polymorphic and determined conditional actions 
 •	Repeated project using Claude Vibe Code
+
 OOP Serialization- tylerhenry705/horses and burros project at main · tylerhenry705-lgtm/tylerhenry705 
 •	Java object-oriented programming serialization project in which the DataSet class collected statistics using the SerializeStatistic method
 •	Statistic class created additional forms of statistics and implemented the serializable interface using Java Serialization
